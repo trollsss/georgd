@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="grey">#616161</color>
+    <color name="blue">#1A6FEE</color>
+    <color name = "design_default_color_background1">#B2BEB5</color>
 </resources>
